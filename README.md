@@ -1,6 +1,13 @@
-### Hey there, 👋
+### Hey there, my name is Janeth 👋
+## I'm a software engineer based in Miami.
 
 [![Janeth's github stats](https://github-readme-stats.vercel.app/api?username=jarriola989&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarriola989)](https://github.com/anuraghazra/github-readme-stats)
+
+
+- I'm currently learning `React Native`. Stay tuned for some project coming soon! 😄
 
 <!--
 **Jarriola989/jarriola989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
