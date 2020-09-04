@@ -2,7 +2,7 @@
 
 ### I'm a software engineer based in Miami.
 
-Let's connect!
+#### Let's connect!
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=${badgeHeight}>](https://www.linkedin.com/in/janeth-arriola/)
 
 [![Janeth's github stats](https://github-readme-stats.vercel.app/api?username=jarriola989&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
