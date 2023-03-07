@@ -10,7 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarriola989)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👩🏻‍💻 I'm currently learning `React Native`. Stay tuned for some projects coming soon!
 
 <!--
 **Jarriola989/jarriola989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
